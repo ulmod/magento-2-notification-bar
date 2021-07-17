@@ -1,6 +1,8 @@
 # Magento 2 Notification Bar Extension
 
-[Notification Bar](https://www.ulmod.com/notification-bar-for-magento-2.html) is a  Magento 2 extension that allows you to create an unlimited number of notification bars/banner/content, categorize them into one or multiple groups and display them at any page/position of your Magento 2 site.  
+[Notification Bar](https://www.ulmod.com/notification-bar-for-magento-2.html) is a  Magento 2 extension that allows you to display alerts, announcements, promo banners, promo bars or any marketing message at any page and position of your site.
+
+With Magento 2 Notification Bar you can create an unlimited number of notification bars/banner/content, categorize them into one or multiple groups and display them at any page/position of your Magento 2 site.  
 
 <a href="https://www.ulmod.com/notification-bar-for-magento-2.html"><img width="205" src="https://www.ulmod.com/media/wysiwyg/um-download-now1.png"></a>
 
