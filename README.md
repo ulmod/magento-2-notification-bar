@@ -20,35 +20,7 @@ With Magento 2 Notification Bar you can create an unlimited number of notificati
 * Support multistore
 * Mobile-friendly
 
-
 <img src="https://www.ulmod.com/media/ulmod/product_content/umnotifbar-bar-min.png">
-
-
-## Other [Magento 2 Extensions](https://www.ulmod.com/magento2-extensions.html) by Ulmod
-# Magento 2 Notification Bar Extension
-
-[Notification Bar](https://www.ulmod.com/notification-bar-for-magento-2.html) is a  Magento 2 extension 
-that allows you to can create an unlimited number of notification bars/banner/content, categorize them into one or multiple groups and insert them on any page of your Magento 2 site.  
-
-<a href="https://www.ulmod.com/notification-bar-for-magento-2.html"><img width="205" src="https://www.ulmod.com/media/wysiwyg/um-download-now1.png"></a>
-
-## Key Features
-
-* Ability to create unlimited notifications
-* Ability to create unlimited notification groups to categorize notifications bars/banner
-* Support four content type to display notification: HTML, Image, HTML & Countdown, and Image & Countdown
-* Display multiple notifications in a slider
-* Display notifications on the home, product, and category pages  
-* Support seven predefined positions to display notifications
-* Support widgets to display notifications on any other pages and positions
-* Support notification statistics to calculate a CTR for each notification
-* Manage notification and groups in the admin panel
-* Support multistore
-* Mobile-friendly
-
-
-<img src="https://www.ulmod.com/media/ulmod/product_content/umnotifbar-bar-min.png">
-
 
 ## Other [Magento 2 Extensions](https://www.ulmod.com/magento2-extensions.html) by Ulmod
 ### Magento 2 FREE Extensions
